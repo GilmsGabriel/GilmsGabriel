@@ -3,8 +3,8 @@
   - 🌱 I’m currently learning Python, Eletronics and Git/Github.
   - 🍒 My mother language is Portuguese, I'm currently planning to learn Russian and English!
 ### - 📫 How to reach me
-  - Twitter:  @gilmsgabriel;
-  - Discord:  Gilms#8091;
+  - Twitter:  @gilmsgabriel
+  - Discord:  Gilms#8091
 
 
 
