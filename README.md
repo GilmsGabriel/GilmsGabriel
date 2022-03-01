@@ -1,7 +1,7 @@
 ## - 👋 Hello there, I’m Gilmar Gabriel.
   - 👀 I’m interested in programming, automation and learning.
   - 🌱 I’m currently learning Python and Git/Github
-  - 🍒 My mother language is Portuguese
+  - 🍒 My mother language is Portuguese, I'm currently planning to learn Russian and English!
 ### - 📫 How to reach me
   - Twitter:  @gilmsgabriel;
   - Discord:  Gilms#8091;
